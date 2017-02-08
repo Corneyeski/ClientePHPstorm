@@ -1,0 +1,13 @@
+.posicionsParelles{
+    background-color: #28a4c9;
+    
+}
+.posicionsSenars{
+    background-color: grey;
+}
+.esPar{
+    color:white;
+}
+.noEsPar{
+    color:red;
+}
