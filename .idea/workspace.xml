@@ -2,468 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aaf15bd-8e7f-45c9-be44-2b80b78daecb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SintesisAngular.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngularServices.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/img/Pawel_Kuczynski01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/img/Pawel_Kuczynski02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/img/Pawel_Kuczynski03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/img/Pawel_Kuczynski04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/img/Pawel_Kuczynski01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/img/Pawel_Kuczynski02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/img/Pawel_Kuczynski03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/img/Pawel_Kuczynski04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/img/Pawel_Kuczynski01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/img/Pawel_Kuczynski02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/img/Pawel_Kuczynski03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/img/Pawel_Kuczynski04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/foto/Dilbert.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/foto/Esfera_del_dragon_4_estrellas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/foto/lupa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/1604072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/49356_2d_2d_triangle_landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/Blue-Geometric-Wallpaper-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/fondo_alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/icon-facebook-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/instagram-256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/lupa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/music-hd-wallpapers-1080p-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/img/twitter-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/Practica9_RicardHuelamoZaragoza.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/img/Pawel_Kuczynski01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/img/Pawel_Kuczynski02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/img/Pawel_Kuczynski03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/img/Pawel_Kuczynski04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1.rar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1/img/imatge.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/nbproject/OneDrive - Acceso directo.lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/img/OhhhMusic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/img/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/img/index/anuncis/anunci01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/img/index/anuncis/anunci02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/img/twt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica10_selectors_css.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica10_selectors_css.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/img/Pawel_Kuczynski01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/img/Pawel_Kuczynski02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/img/Pawel_Kuczynski03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/img/Pawel_Kuczynski04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/img/OhhhMusic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/img/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/img/index/anuncis/anunci01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/img/index/anuncis/anunci02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/img/twt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/practica10_selectors_css.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/1604072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/33818_abstract_geometric_abstract_shapes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/49356_2d_2d_triangle_landscape.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/Alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/Blue glass texture Wallpapers HD 1280x720.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/Blue-Geometric-Wallpaper-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/Music-Notes-Wallpaper-0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/Triangular_Blue-wallpaper-10108831.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/fondo-azul,-hexagonos,-triangulos-182674.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/fondo_alan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/icon-facebook-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/instagram-256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/lupa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/music-hd-wallpapers-1080p-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/p-blue-triangles-mOZ4IbJO7u-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/img/twitter-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngular/angularArrays.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngular/angularArrays.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngular/controler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/correccioAngular/service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/driver.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/bdalta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/bdbaja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/bdmod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/bucleyconexion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/formalta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/formbaja.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplos/formmod.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplosmysqli/bdbaja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/ejemplosmysqli/formbaja.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/encriptacion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/encriptacionv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/controlusu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/formmansion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/registrodeusuario.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/registrousuario2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/validar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/validar2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/validarcontrol.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/examenphp/validarmansion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/ALTA_MONGO.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/mongobaja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/alta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/borrar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/buscar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/cambiar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/cfinal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/alta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/borrar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/cfinal.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/editar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/listar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/mostraruno.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/dioses/updatea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/editar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/formalta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/listar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/listaruno.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/mongodb/practica/updatea.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/css/inicio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/inicio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/javascript/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/partedelproyecto/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/slick-practica/slick1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/BBDD/valen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve/css/examen01.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve/css/examen02.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve/examen01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve/examen02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Examen alan vallve/examen03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/javascript/validacion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/muestraValores.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Sintesis_18/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/exempleSlider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/jquery-1.12.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/newhtml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/newjavascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/Slider-practica/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/admin/aalta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/admin/abaja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/admin/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/admin/amod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/admin/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/buscar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/buscar/buscarc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/buscar/buscarl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/inicio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/local.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/musico.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/registros.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/css/votaciones.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/fan/fanV.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/html/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/inicio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/vform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/javascript/votaciones.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/ac.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/actualizard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/altac.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/localca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/localcc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/local/localcr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/musico/apuntarse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/musico/musico.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/musico/musicoa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/conexion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/imagen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/mapas.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/validar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/php/votar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/beta/slick/votaciones.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/formularis1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/formularis2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/formularis2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/jamonconqueso.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/jamonconqueso.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/jamonconqueso.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/registro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/ejemplo/registro2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/javascript/validacion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/mapa.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/muestraValores.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/examen_alan_vallve/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/ejemplo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/ejemplojQuery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/ejemplojQuery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/ejemplojQuery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/local/local.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/local/local.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/jquery/practica1/js/jquery-1.12.1.min_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/nbproject/private/private.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/nbproject/private/private.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/nbproject/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/nbproject/project.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica1/registro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica1/registro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica1/registro2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica1/registro2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica1/registro2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/css/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica-3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica11-2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica11-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica11-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica11.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica10 alan vallve/practica11/practica11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/form1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/form2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/js/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/js/pluginsJS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/css/inicio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/inicio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/javascript/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/partedelproyecto/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica16/slick-practica/slick1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/bensoundcute.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/bensoundepic.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/muestraDireccion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/muestraMusica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica17/gampAudio/practica17.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/css/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/practica2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/buscar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/css/inicio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/css/local.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/html/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/html/formf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/html/forml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/html/formm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/html/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/inicio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/ejslick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/jquery-1.12.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/javascript/vform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/local/local2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/localcr.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/aalta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/abaja.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/amod.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/conexion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/formf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/forml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/formm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/php/validar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick-theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick-theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/proyecto/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/responsive/ej1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/responsive/ej1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/responsive/ej2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phppracticas/responsive/ej2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/Cliente.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/cabecera.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/change.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/change.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/constante.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/discon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/ejercicio1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/ejercicio1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/ejercicio1_2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/foreach.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/formsesion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/formsesion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/formulario.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/formulario2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/matriz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/mes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/metodoget.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/metodoget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/pelicula1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/recibesesion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/scabecera.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/sortmatriz.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/tercera.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/testmysql.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/variable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/viejo/web_de_pelis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/estructuraClases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/sintesis.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/sintesis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumero.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -478,21 +25,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="aciertaNumero.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.html">
+      <file leaf-file-name="sintesis.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExamenAngular/sintesis.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="444">
+              <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aciertaNumeroXML.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php">
+      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExamenAngular/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+            <state relative-caret-position="221">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExamenAngular/service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1615">
+              <caret line="97" column="54" lean-forward="true" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -504,8 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -513,6 +70,7 @@
     <findStrings>
       <find>players</find>
       <find>p4</find>
+      <find>eliminarp</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -533,6 +91,10 @@
         <option value="$PROJECT_DIR$/SintesisAngular/sintesis.css" />
         <option value="$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php" />
         <option value="$PROJECT_DIR$/ajax xml/aciertaNumero.html" />
+        <option value="$PROJECT_DIR$/ajax xml/aciertaNumero.js" />
+        <option value="$PROJECT_DIR$/ExamenAngular/sintesis.html" />
+        <option value="$PROJECT_DIR$/ExamenAngular/service.js" />
+        <option value="$PROJECT_DIR$/ExamenAngular/controller.js" />
       </list>
     </option>
   </component>
@@ -582,10 +144,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cliente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cliente" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practica6Arrays" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cliente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cliente" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExamenAngular" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -598,6 +188,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Cliente" />
       <recent name="C:\Users\alanv\PhpstormProjects\ClientePHPstorm\SintesisAngular" />
       <recent name="C:\wamp\www\Cliente\Librerias" />
     </key>
@@ -605,7 +196,7 @@
       <recent name="C:\wamp\www\Cliente\Librerias" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sintesis.html">
+  <component name="RunManager" selected="JavaScript Debug.sintesis.html (2)">
     <configuration default="false" name="objetoAngular.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/objetoJsAngular/objetoAngular.html">
       <method />
     </configuration>
@@ -615,10 +206,10 @@
     <configuration default="false" name="sintesis.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ClientePHPstorm/SintesisAngular/sintesis.html">
       <method />
     </configuration>
-    <configuration default="false" name="objetoAngular.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ClientePHPstorm/objetoJsAngular/objetoAngular.html">
+    <configuration default="false" name="aciertaNumero.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ajax xml/aciertaNumero.html">
       <method />
     </configuration>
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ClientePHPstorm/pruebaAngular/index.html">
+    <configuration default="false" name="sintesis.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ExamenAngular/sintesis.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -681,16 +272,16 @@
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -720,7 +311,12 @@
       <workItem from="1485966695921" duration="178000" />
       <workItem from="1485967132270" duration="122000" />
       <workItem from="1486493312848" duration="597000" />
-      <workItem from="1486570553370" duration="2096000" />
+      <workItem from="1486570553370" duration="3007000" />
+      <workItem from="1486999333179" duration="2327000" />
+      <workItem from="1487003401290" duration="1459000" />
+      <workItem from="1487009313529" duration="827000" />
+      <workItem from="1487014562746" duration="924000" />
+      <workItem from="1487093349285" duration="3489000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -757,33 +353,40 @@
       <option name="project" value="LOCAL" />
       <updated>1485793859058</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="acabado">
+      <created>1486572812845</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1486572812845</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47300000" />
+    <option name="totallyTimeSpent" value="57237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24231333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24231333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56624603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56624603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -796,7 +399,8 @@
     <MESSAGE value="POR FIN" />
     <MESSAGE value="segundo punto" />
     <MESSAGE value="acabado" />
-    <option name="LAST_COMMIT_MESSAGE" value="acabado" />
+    <MESSAGE value="examen acabado" />
+    <option name="LAST_COMMIT_MESSAGE" value="examen acabado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -818,44 +422,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/objetoJsAngular/objetoAngular.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="48" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SintesisAngular/sintesis.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SintesisAngular/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SintesisAngular/service.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/objetosJS/concesionario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/correccioAngular/service.js" />
     <entry file="file://$PROJECT_DIR$/correccioAngular/controler.js" />
     <entry file="file://$PROJECT_DIR$/objetoJsAngular/objetoAngular.html">
@@ -869,7 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1098,14 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SintesisAngular/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/objetoJsAngular/objetoAngular.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1120,10 +675,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SintesisAngular/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SintesisAngular/sintesis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="257">
+          <caret line="64" column="73" lean-forward="false" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
           <folding />
         </state>
       </provider>
@@ -1136,18 +723,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.html">
+    <entry file="file://$PROJECT_DIR$/practica6Arrays/array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="243">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php">
+    <entry file="file://$PROJECT_DIR$/ExamenAngular/service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="56" lean-forward="false" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+        <state relative-caret-position="-1615">
+          <caret line="97" column="54" lean-forward="true" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamenAngular/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamenAngular/sintesis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
           <folding />
         </state>
       </provider>
