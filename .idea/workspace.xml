@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aaf15bd-8e7f-45c9-be44-2b80b78daecb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/estructuraClases.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/sintesis.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamenAngular/sintesis.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ajaxXml/xml.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ExamenAngular/sintesis.html" afterPath="$PROJECT_DIR$/ExamenAngular/examen.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" afterPath="$PROJECT_DIR$/ajaxXml/aciertaNumero.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax xml/aciertaNumero.js" afterPath="$PROJECT_DIR$/ajaxXml/aciertaNumero.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php" afterPath="$PROJECT_DIR$/ajaxXml/aciertaNumeroXML.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" afterPath="$PROJECT_DIR$/ajax xml/aciertaNumero.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,31 +22,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sintesis.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExamenAngular/sintesis.html">
+      <file leaf-file-name="aciertaNumero.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumero.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+            <state relative-caret-position="102">
+              <caret line="6" column="44" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExamenAngular/controller.js">
+      <file leaf-file-name="xml.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajaxXml/xml.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+            <state relative-caret-position="17">
+              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExamenAngular/service.js">
+      <file leaf-file-name="aciertaNumero.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumero.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1615">
-              <caret line="97" column="54" lean-forward="true" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
+            <state relative-caret-position="249">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aciertaNumeroXML.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumeroXML.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -60,9 +67,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -95,6 +102,9 @@
         <option value="$PROJECT_DIR$/ExamenAngular/sintesis.html" />
         <option value="$PROJECT_DIR$/ExamenAngular/service.js" />
         <option value="$PROJECT_DIR$/ExamenAngular/controller.js" />
+        <option value="$PROJECT_DIR$/ajaxXml/xml.css" />
+        <option value="$PROJECT_DIR$/ajaxXml/aciertaNumero.html" />
+        <option value="$PROJECT_DIR$/ajaxXml/aciertaNumero.js" />
       </list>
     </option>
   </component>
@@ -107,7 +117,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.4" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -168,14 +178,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ExamenAngular" />
+              <option name="myItemId" value="ajaxXml" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,20 +206,20 @@
       <recent name="C:\wamp\www\Cliente\Librerias" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.sintesis.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.aciertaNumero.html (1)">
     <configuration default="false" name="objetoAngular.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/objetoJsAngular/objetoAngular.html">
       <method />
     </configuration>
     <configuration default="false" name="sintesis.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/SintesisAngular/sintesis.html">
       <method />
     </configuration>
-    <configuration default="false" name="sintesis.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ClientePHPstorm/SintesisAngular/sintesis.html">
-      <method />
-    </configuration>
     <configuration default="false" name="aciertaNumero.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ajax xml/aciertaNumero.html">
       <method />
     </configuration>
-    <configuration default="false" name="sintesis.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ExamenAngular/sintesis.html">
+    <configuration default="false" name="examen.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ExamenAngular/examen.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="aciertaNumero.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Cliente/ajaxXml/aciertaNumero.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -271,17 +281,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (2)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.examen.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (2)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html (1)" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.aciertaNumero.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.examen.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.sintesis.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.objetoAngular.html" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +326,13 @@
       <workItem from="1487003401290" duration="1459000" />
       <workItem from="1487009313529" duration="827000" />
       <workItem from="1487014562746" duration="924000" />
-      <workItem from="1487093349285" duration="3489000" />
+      <workItem from="1487093349285" duration="4502000" />
+      <workItem from="1487098094551" duration="448000" />
+      <workItem from="1487175928892" duration="214000" />
+      <workItem from="1487176671215" duration="431000" />
+      <workItem from="1487177250361" duration="1333000" />
+      <workItem from="1487270673178" duration="2353000" />
+      <workItem from="1487498929026" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -360,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486572812845</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="examen acabado">
+      <created>1487096849396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487096849396</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57237000" />
+    <option name="totallyTimeSpent" value="63399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -375,18 +398,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56624603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56624603" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,7 +424,8 @@
     <MESSAGE value="segundo punto" />
     <MESSAGE value="acabado" />
     <MESSAGE value="examen acabado" />
-    <option name="LAST_COMMIT_MESSAGE" value="examen acabado" />
+    <MESSAGE value="Practica ajax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica ajax" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,13 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/objetosJS/concesionario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="40" lean-forward="true" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/correccioAngular/service.js" />
     <entry file="file://$PROJECT_DIR$/correccioAngular/controler.js" />
     <entry file="file://$PROJECT_DIR$/objetoJsAngular/objetoAngular.html">
@@ -675,35 +693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumero.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax xml/aciertaNumeroXML.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SintesisAngular/controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
           <caret line="64" column="73" lean-forward="false" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,30 +718,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExamenAngular/service.js">
+    <entry file="file://$PROJECT_DIR$/ExamenAngular/examen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1615">
-          <caret line="97" column="54" lean-forward="true" selection-start-line="97" selection-start-column="54" selection-end-line="97" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="393">
+          <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExamenAngular/controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        <state relative-caret-position="249">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamenAngular/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="77" column="35" lean-forward="false" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxXml/xml.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExamenAngular/sintesis.html">
+    <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumero.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="104" column="34" lean-forward="true" selection-start-line="104" selection-start-column="34" selection-end-line="104" selection-end-column="34" />
+        <state relative-caret-position="102">
+          <caret line="6" column="44" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumeroXML.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxXml/aciertaNumero.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>
