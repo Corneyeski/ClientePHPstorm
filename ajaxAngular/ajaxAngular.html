@@ -14,9 +14,9 @@
 {{palabra}}
 <br>
 <input ng-model="letra"><button ng-click="send()">send</button>
-
-<div ng-model="rayas" id="rayas">
-
+<br>
+<div ng-model="rayas" ng-repeat="letra in arrayPalabra track by $index" style="display: inline-block; margin: 2px">
+{{letra}}
 </div>
 
 </body>

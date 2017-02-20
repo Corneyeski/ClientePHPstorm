@@ -1,16 +1,27 @@
 <?php
-
-$palabras = array("palabra","cristian","programacion","asignatura");
-
+session_start();
+$palabras = array("asignatura","cristian","programacion","palabra");
+$_SESSION['palabra'];
 if(isset($_GET['inicio'])){
 
-    $desorden= shuffle ($palabras);
-    $_SESSION['palabra'] = $desorden[0];
+    shuffle ($palabras);
+    $_SESSION['palabra'] = $palabras[0];
+
     echo '{"palabra" : "' . $palabras[0] . '"}';
 }else{
     if(isset($_GET['letra'])){
-        if(strpos($_GET['letra'],$_SESSION['inicio'])){
-            echo strpos($_GET['letra'],$_SESSION['inicio']);
+
+        $arrayl = str_split($_SESSION['palabra']);
+        $arrayIguales = [];
+        $contador = count($arrayl);
+
+        for($i = 0; $i < $contador; $i++){
+            if($_GET['letra'] == $arrayl[$i]){
+                $arrayIguales[] = $i;
+            }
         }
+//        echo $arrayl;
+//        echo '{"palabra" : "' . $_SESSION['palabra'] . '"}';
+        echo json_encode($arrayIguales);
     }
 }
