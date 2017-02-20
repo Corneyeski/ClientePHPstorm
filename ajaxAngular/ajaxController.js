@@ -1,4 +1,3 @@
-
 app = angular.module('myApp', []);
 
 app.controller('control', ['$scope', 'myService', function ($scope, myService) {
@@ -15,7 +14,7 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
 
                 $scope.arrayPalabra = [];
 
-                for(var i = 0;i < $scope.palabra.length; i++){
+                for (var i = 0; i < $scope.palabra.length; i++) {
                     $scope.arrayPalabra.push("__");
                 }
             },
@@ -28,19 +27,20 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
 
     $scope.send = function () {
 
-            myService.getChar($scope.letra).then(
-                function (response) {
+        myService.getChar($scope.letra).then(
+            function (response) {
 
-                    var resp = response.data;
-                    console.log(response.data);
+                var resp = response.data;
+                console.log(response.data);
 
-                    for(var key in response.data){
-                    }
-                },
-                function (response) {
-                    $scope.message = response.status + " " + response.statusText;
+                for (var key in response.data) {
+                    $scope.arrayPalabra[response.data[key]] = $scope.letra;
                 }
-            );
+            },
+            function (response) {
+                $scope.message = response.status + " " + response.statusText;
+            }
+        );
 
     }
 
