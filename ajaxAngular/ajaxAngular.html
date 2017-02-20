@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="angular.min.js"></script>
+    <script src="../Librerias/jquery-3.1.1.min.js"></script>
+    <script src="ajaxController.js"></script>
+    <script src="ajaxService.js"></script>
+</head>
+<body  ng-app="myApp" ng-controller="control">
+<button ng-click="generar()">START!</button>
+<br>
+{{palabra}}
+<br>
+<input ng-model="letra"><button ng-click="send()">send</button>
+
+<div ng-model="rayas" id="rayas">
+
+</div>
+
+</body>
+</html>
