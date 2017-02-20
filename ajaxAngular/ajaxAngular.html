@@ -13,11 +13,16 @@
 <br>
 {{palabra}}
 <br>
-<input ng-model="letra"><button ng-click="send()">send</button>
-<br>
+<div id="borrar">
+    <input ng-model="letra"><button ng-click="send()">send</button>
+</div>
 <div ng-model="rayas" ng-repeat="rayas in arrayPalabra track by $index" style="display: inline-block; margin: 2px">
 {{rayas}}
 </div>
-
+<div id="intentos">
+    intentos: {{intentos}}
+    <br>
+    restantes: {{10-intentos}}
+</div>
 </body>
 </html>

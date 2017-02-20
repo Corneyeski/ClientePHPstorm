@@ -2,6 +2,7 @@ app = angular.module('myApp', []);
 
 app.controller('control', ['$scope', 'myService', function ($scope, myService) {
 
+    $scope.intentos = 0;
     $scope.palabra = "";
 
     $scope.generar = function () {
@@ -33,9 +34,31 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
                 var resp = response.data;
                 console.log(response.data);
 
-                for (var key in response.data) {
-                    $scope.arrayPalabra[response.data[key]] = $scope.letra;
+                if (response.data.length > 0) {
+
+                    for (var key in response.data) {
+                        $scope.arrayPalabra[response.data[key]] = $scope.letra;
+                    }
+
+                    var check = true;
+                    for (var i = 0; i < $scope.arrayPalabra.length; i++) {
+                        if ($scope.arrayPalabra[i] == "__") {
+                            check = false;
+                            break;
+                        }
+                    }
+                    if(check){
+                        alert("HAS GANADO");
+                        $("#borrar").html("");
+                    }
+                }else{
+                    $scope.intentos++;
+                    if($scope.intentos == 10) {
+                        alert("HAS PERDIDO");
+                        $("#borrar").html("");
+                    }
                 }
+
             },
             function (response) {
                 $scope.message = response.status + " " + response.statusText;
