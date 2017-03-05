@@ -184,13 +184,22 @@ function addNewReplaceNode() {
     nodes.appendChild(newElement);
 
     newElement.addEventListener("click", forFirst);
+    newElement.addEventListener("mouseover", xAndY);
 }
 function forFirst() {
-
     var nodes = document.getElementById("domNodes");
     var element = document.getElementsByClassName("replaceMeForFirst");
 
     for(var key = 0;key < element.length; key++) {
         nodes.insertBefore(element[key], nodes.childNodes[0]);
+    }
+}
+//TODO 9
+function xAndY() {
+    var element = document.getElementsByClassName("replaceMeForFirst");
+
+    for(var key = 0;key < element.length; key++) {
+        element[key].innerHTML = element[key].top;
+        element[key].innerHTML = element[key].getAttribute("height");
     }
 }

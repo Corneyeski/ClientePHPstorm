@@ -24,8 +24,8 @@
       <file leaf-file-name="dom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DOM/dom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="493">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="dom.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DOM/dom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+            <state relative-caret-position="714">
+              <caret line="196" column="8" lean-forward="false" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -330,7 +330,7 @@
       <workItem from="1488303113073" duration="1329000" />
       <workItem from="1488384401468" duration="3547000" />
       <workItem from="1488714415761" duration="44000" />
-      <workItem from="1488714550027" duration="8857000" />
+      <workItem from="1488714550027" duration="11129000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -409,11 +409,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487620091775</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="DOM">
+      <created>1488723748528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1488723748528</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110452000" />
+    <option name="totallyTimeSpent" value="112724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -452,7 +459,8 @@
     <MESSAGE value="examen acabado" />
     <MESSAGE value="Practica ajax" />
     <MESSAGE value="Practica angular ajax (Cristian te pasas)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practica angular ajax (Cristian te pasas)" />
+    <MESSAGE value="DOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="DOM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -800,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DOM/dom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -816,8 +824,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DOM/dom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="147" column="1" lean-forward="true" selection-start-line="147" selection-start-column="1" selection-end-line="147" selection-end-column="1" />
+        <state relative-caret-position="714">
+          <caret line="196" column="8" lean-forward="false" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
           <folding />
         </state>
       </provider>
