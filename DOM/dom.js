@@ -24,7 +24,9 @@ function inicio() {
     delAllType.addEventListener("click", addNewdelAllNode, false);
 
     var replaceMeForFirst = document.getElementById("replaceMeForFirst");
-    replaceMeForFirst.addEventListener("click",addNewReplaceNode,false)
+    replaceMeForFirst.addEventListener("click",addNewReplaceNode,false);
+
+    document.onkeydown = remove;
 }
 //TODO 1
 function addNewDiv() {
@@ -196,10 +198,25 @@ function forFirst() {
 }
 //TODO 9
 function xAndY() {
-    var element = document.getElementsByClassName("replaceMeForFirst");
+    // var element = document.getElementsByClassName("replaceMeForFirst");
+    //
+    // for(var key = 0;key < element.length; key++) {
+    //     element[key].innerHTML = element[key].top;
+    //     element[key].innerHTML = element[key].getAttribute("height");
+    // }
+    var pos = this.getBoundingClientRect();
+    var x = pos.right;
+    var y = pos.top;
+    this.innerHTML = x.toFixed(2)+", "+y.toFixed(2);
+}
+//TODO 10-11
+function remove(event){
+    var char = String.fromCharCode(event.keyCode);
+    var nodes = document.getElementById("domNodes");
 
-    for(var key = 0;key < element.length; key++) {
-        element[key].innerHTML = element[key].top;
-        element[key].innerHTML = element[key].getAttribute("height");
+    if(char == 1){
+        nodes.removeChild(nodes.firstChild);
+    }else if(char == 2){
+        nodes.removeChild(nodes.lastChild);
     }
 }
