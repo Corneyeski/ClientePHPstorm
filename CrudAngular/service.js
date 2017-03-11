@@ -4,4 +4,5 @@ app.service('myService',['$resource', function ($resource) {
             'update': {method: 'PUT'}
         });
     };
+    this.prueba = "prueba";
 }]);
