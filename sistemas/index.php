@@ -13,16 +13,25 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }else{
     echo "success <br>";
+
     $sql = "SELECT * FROM usuarios";
-    $result = $conn->query($sql);
+    //$result = $conn->query($sql) or die("no coge datos");
+    $result = mysqli_query($conn, $sql);
+
+    echo $result;
+
+    echo "sigue vivo";
 
     if($result->num_rows > 0){
-        while($row = $result->fetch_assoc()){
+       /* while($row = $result->fetch_assoc()){
+            echo $row["name"];
+        }*/
+        while($row = mysqli_fetch_assoc($result)) {
             echo $row["name"];
         }
     }else{
         echo "0 rows";
     }
+    echo "Connected successfully";
 }
-echo "Connected successfully";
 ?>
