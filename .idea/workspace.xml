@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaf15bd-8e7f-45c9-be44-2b80b78daecb" name="Default" comment="DOM">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CrudAngular/prueba.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Librerias/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrudAngular/controller.js" afterPath="$PROJECT_DIR$/CrudAngular/controller.js" />
@@ -30,11 +28,9 @@
       <file leaf-file-name="crud.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrudAngular/crud.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
+            <state relative-caret-position="561">
               <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-              <folding>
-                <element signature="n#style#0;n#td#4;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,10 +38,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sistemas/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="410">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding>
-                <marker date="1489602813573" expanded="true" signature="431:453" ph="SELECT * FRO... usuarios" />
+                <marker date="1489605141900" expanded="true" signature="433:454" ph="SELECT * FRO... usuarios" />
               </folding>
             </state>
           </provider>
@@ -56,7 +52,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="867">
               <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-              <folding />
+              <folding>
+                <marker date="1490026677424" expanded="true" signature="3415:3743" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,9 +72,12 @@
       <file leaf-file-name="resp.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CrudAngular/resp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="646">
+              <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <folding>
+                <marker date="1490031439639" expanded="true" signature="3101:3116" ph="..." />
+                <marker date="1490031439639" expanded="true" signature="3101:3117" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,7 +158,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -420,7 +421,9 @@
       <workItem from="1489418096461" duration="1257000" />
       <workItem from="1489419467687" duration="109000" />
       <workItem from="1489512989426" duration="1067000" />
-      <workItem from="1489599551749" duration="4137000" />
+      <workItem from="1489599551749" duration="5929000" />
+      <workItem from="1490022465961" duration="615000" />
+      <workItem from="1490031578332" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -513,17 +516,24 @@
       <option name="project" value="LOCAL" />
       <updated>1488911558024</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="DOM">
+      <created>1489603812133</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1489603812133</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135047000" />
+    <option name="totallyTimeSpent" value="138045000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24082232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24011713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -876,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="841" column="6" lean-forward="false" selection-start-line="841" selection-start-column="6" selection-end-line="841" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,9 +914,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CrudAngular/resp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="646">
+          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding>
+            <marker date="1490031439639" expanded="true" signature="3101:3116" ph="..." />
+            <marker date="1490031439639" expanded="true" signature="3101:3117" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -916,26 +927,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          <folding />
+          <folding>
+            <marker date="1490026677424" expanded="true" signature="3415:3743" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CrudAngular/crud.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="561">
           <caret line="33" column="69" lean-forward="false" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#td#4;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sistemas/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="410">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding>
-            <marker date="1489602813573" expanded="true" signature="431:453" ph="SELECT * FRO... usuarios" />
+            <marker date="1489605141900" expanded="true" signature="433:454" ph="SELECT * FRO... usuarios" />
           </folding>
         </state>
       </provider>

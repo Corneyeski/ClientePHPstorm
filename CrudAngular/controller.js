@@ -7,7 +7,7 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
         
         $scope.planti = "";
         
-        var newPoke = {nombre: $scope.nombre, nick: $scope.nick, tipo: [$scope.tipo], evolucion: $scope.evolucion};
+        $scope.newPoke = {nombre: $scope.nombre, nick: $scope.nick, tipo: [$scope.tipo], evolucion: $scope.evolucion};
         
         /*myService.consultaAjax().get({id: "Bulbasaur"});
 
@@ -22,7 +22,7 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
                     $scope.messError = "Error: " + response.status + " " + response.statusText;
                 });*/
 
-        myService.consultaAjax().get({}, newPoke).$promise.then(
+        myService.consultaAjax().get({}, $scope.newPoke).$promise.then(
                 function (response) {
                     console.log(response);
                     $scope.pokemons = response;
@@ -41,8 +41,8 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
                 }
         );
 
-        $scope.eliminar = new function () {
-            myService.consultaAjax().get().$promise.then(
+        $scope.eliminar = function (nick) {
+            myService.consultaAjax().delete({id: nick}).$promise.then(
                     function (response) {
                         console.log(response);
                         $scope.pokemons = response;
@@ -54,7 +54,7 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
         };
         
         $scope.getPlanti = function(){
-            myService.consultaAjax().get({id: "planti"}, newPoke).$promise.then(
+            myService.consultaAjax().get({id: "planti"}, $scope.newPoke).$promise.then(
                 function (response) {
                     console.log(response);
                     $scope.planti = response;
@@ -71,6 +71,20 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
         $scope.panti = function(){
             var pantis = {nombre: "panti", nick: "panti", tipo: "panti", evolucion: "evolasao"};
             myService.consultaAjax().save({}, pantis).$promise.then(
+                function (response) {
+                    console.log(response);
+                    $scope.pokemons = response;
+                },
+                function (response) {
+                    $scope.messError = "Error: " + response.status + " " + response.statusText;
+                });
+        };
+        
+        $scope.updatePlanti = function(){
+            var newPoke = {nombre: $scope.nombre, nick: $scope.nick, tipo: [$scope.tipo], evolucion: $scope.evolucion};
+            console.log(newPoke);
+            
+            myService.consultaAjax().update({id: $scope.nick}, newPoke).$promise.then(
                 function (response) {
                     console.log(response);
                     $scope.pokemons = response;
