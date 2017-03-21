@@ -28,7 +28,7 @@
             </tr>
             <tr ng-repeat="key in pokemons track by $index">
                 <td>{{key.nombre}}</td>
-                <td>{{key.nick}}</td>
+                <td ng-click="rellenar(key.nick)">{{key.nick}}</td>
                 <td>{{key.evolucion}}</td>
                 <td>{{key.tipo}}</td>
                 <td ng-click="eliminar(key.nick)" style="color:red">Elimina</td>
@@ -43,10 +43,10 @@
             <div class="btn btn-danger" ng-click="updatePlanti()"/>send/update</div>
         </div>
         <div class="row">
-            <div class="btn btn-success col-lg-1" ng-click="panti()"/>PANTI</div>
+            <div class="btn btn-success col-lg-1" ng-click="panti()"/>AÑADIR PANTI</div>
         </div>
         <div class="row">
-            <div class="btn btn-success col-lg-1" ng-click="getPlanti()"/>PLANTi</div>
+            <div class="btn btn-success col-lg-1" ng-click="getPlanti()"/>RELLENAR FORMULARIO CON PLANTi</div>
         </div>
     </div>
 </div>

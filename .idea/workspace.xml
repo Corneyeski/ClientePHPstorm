@@ -10,7 +10,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrudAngular/controller.js" afterPath="$PROJECT_DIR$/CrudAngular/controller.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrudAngular/crud.html" afterPath="$PROJECT_DIR$/CrudAngular/crud.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrudAngular/resp.php" afterPath="$PROJECT_DIR$/CrudAngular/resp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sistemas/index.php" afterPath="$PROJECT_DIR$/sistemas/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,7 +52,7 @@
             <state relative-caret-position="867">
               <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
               <folding>
-                <marker date="1490026677424" expanded="true" signature="3415:3743" ph="{...}" />
+                <marker date="1490119517759" expanded="true" signature="3415:3743" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -75,8 +74,7 @@
             <state relative-caret-position="646">
               <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding>
-                <marker date="1490031439639" expanded="true" signature="3101:3116" ph="..." />
-                <marker date="1490031439639" expanded="true" signature="3101:3117" ph="..." />
+                <marker date="1490119946691" expanded="true" signature="2449:2464" ph="..." />
               </folding>
             </state>
           </provider>
@@ -179,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -250,7 +249,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -423,7 +421,8 @@
       <workItem from="1489512989426" duration="1067000" />
       <workItem from="1489599551749" duration="5929000" />
       <workItem from="1490022465961" duration="615000" />
-      <workItem from="1490031578332" duration="591000" />
+      <workItem from="1490031578332" duration="942000" />
+      <workItem from="1490121144602" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -523,17 +522,24 @@
       <option name="project" value="LOCAL" />
       <updated>1489603812133</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="DOM">
+      <created>1490032668804</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1490032668804</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138045000" />
+    <option name="totallyTimeSpent" value="139017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24011713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24011713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -917,8 +923,7 @@
         <state relative-caret-position="646">
           <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding>
-            <marker date="1490031439639" expanded="true" signature="3101:3116" ph="..." />
-            <marker date="1490031439639" expanded="true" signature="3101:3117" ph="..." />
+            <marker date="1490119946691" expanded="true" signature="2449:2464" ph="..." />
           </folding>
         </state>
       </provider>
@@ -928,7 +933,7 @@
         <state relative-caret-position="867">
           <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
           <folding>
-            <marker date="1490026677424" expanded="true" signature="3415:3743" ph="{...}" />
+            <marker date="1490119517759" expanded="true" signature="3415:3743" ph="{...}" />
           </folding>
         </state>
       </provider>

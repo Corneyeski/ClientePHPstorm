@@ -93,4 +93,18 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
                     $scope.messError = "Error: " + response.status + " " + response.statusText;
                 });
         };
+        
+        $scope.rellenar = function(nick){
+            myService.consultaAjax().get({id: nick}).$promise.then(
+                function (response) {
+                    console.log(response);
+                    $scope.nick = response.nick;
+                    $scope.nombre = response.nombre;
+                    $scope.evolucion = response.evolucion;
+                    $scope.tipo = response.tipo;
+                },
+                function (response) {
+                    $scope.messError = "Error: " + response.status + " " + response.statusText;
+                });
+        };
     }]);
