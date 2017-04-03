@@ -24,14 +24,20 @@ switch ($_SERVER['REQUEST_METHOD']) {
         $value = explode("/", $_SERVER['REQUEST_URI'][1]);
         $usuario = json_decode(file_get_contents("php://input"), false);
 
-        $_SESSION["usuarios"][$usuario->nick] = $usuario;
-        //$_SESSION["usuarios"][$usuario->nick]["intentos"] = $_SESSION["usuarios"][$usuario->nick]["intentos"]+1;
+        if ($_SESSION["usuarios"][$usuario->nick]) {
+            $_SESSION["usuarios"][$usuario->nick]->nick = $usuario->nick;
+            $_SESSION["usuarios"][$usuario->nick]->edad = $usuario->age;
+            $_SESSION["usuarios"][$usuario->nick]->intentos += 1;
+        } else {
+            $_SESSION["usuarios"][$usuario->nick] = $usuario;
+            $_SESSION["usuarios"][$usuario->nick]->intentos += 1;
+        }
 
         $posicion = rand(0, sizeof($imgRetos) - 1);
         $_SESSION["posicion"] = $posicion;
         $respuesta = $imgRetos[$posicionImg[$posicion]]["url"];
 
-        echo json_encode(["url" => $respuesta]);
+        echo json_encode(["url" => $respuesta, "user" => $_SESSION["usuarios"][$usuario->nick]]);
         break;
 
     CASE "GET":
@@ -48,33 +54,35 @@ switch ($_SERVER['REQUEST_METHOD']) {
             echo json_encode(["pista" => "Fíjate bien si son iguales..."]);
         } else if (end($value) == "si") {
             if ($imgRetos[$posicionImg[$_SESSION["posicion"]]]["respuesta"] == "si") {
+                $_SESSION["usuarios"][$usuario->nick]->puntuacion += 1;
                 echo json_encode(["respuesta" => "has acertado!"]);
             } else {
                 echo json_encode(["respuesta" => "te has equivocado!"]);
             }
         } else if (end($value) == "no") {
             if ($imgRetos[$posicionImg[$_SESSION["posicion"]]]["respuesta"] == "no") {
+                $_SESSION["usuarios"][$usuario->nick]->puntuacion += 1;
                 echo json_encode(["respuesta" => "has acertado!"]);
             } else {
                 echo json_encode(["respuesta" => "te has equivocado!"]);
             }
         }
 
-        /*if (isset($_GET["image"])) {
-            $posicion = rand(0, sizeof($imgRetos) - 1);
-            $_SESSION["posicion"] = $posicion;
-            $respuesta .= '"ruta":"' . $imgRetos[$posicion] . '"';
-        } else if (isset($_GET["pregunta"])) {
-            $respuesta .= '"pregunta": "¿Hay alguna imagen pareja a otra?"';
-        } else if (isset($_GET["pista"])) {
-            $respuesta .= '"pista" : "Fíjate bien si son iguales..."';
-        } else if (isset($_GET["respuesta"])) {
-            if ($respRetos[$_SESSION["posicion"]] == $_GET["respuesta"]) {
-                $respuesta .= '"respuesta" : "acertado"';
-            } else {
-                $respuesta .= '"respuesta" : "incorrecto"';
-            }
-        }*/
+        /* if (isset($_GET["image"])) {
+          $posicion = rand(0, sizeof($imgRetos) - 1);
+          $_SESSION["posicion"] = $posicion;
+          $respuesta .= '"ruta":"' . $imgRetos[$posicion] . '"';
+          } else if (isset($_GET["pregunta"])) {
+          $respuesta .= '"pregunta": "¿Hay alguna imagen pareja a otra?"';
+          } else if (isset($_GET["pista"])) {
+          $respuesta .= '"pista" : "Fíjate bien si son iguales..."';
+          } else if (isset($_GET["respuesta"])) {
+          if ($respRetos[$_SESSION["posicion"]] == $_GET["respuesta"]) {
+          $respuesta .= '"respuesta" : "acertado"';
+          } else {
+          $respuesta .= '"respuesta" : "incorrecto"';
+          }
+          } */
 
         break;
 }
