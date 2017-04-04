@@ -34,12 +34,14 @@
                     <td><strong>edad</strong></td>
                     <td><strong>intentos</strong></td>
                     <td><strong>puntuacion</strong></td>
+                    <td><strong>Eliminar</strong></td>
                 </tr>
                 <tr ng-repeat="key in users">
-                    <td>{{key.nick}}</td>
+                    <td ng-click="rellenar(key.nick,key.edad)">{{key.nick}}</td>
                     <td>{{key.edad}}</td>
                     <td>{{key.intentos}}</td>
                     <td>{{key.puntuacion}}</td>
+                    <td ng-click="eliminar(key.nick)">eliminar</td>
                 </tr>
                 </tbody>
             </table>

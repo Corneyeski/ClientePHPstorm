@@ -78,12 +78,28 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
             function (response) {
                 console.log(response);
                 $("#ranking").fadeIn();
-                $scope.users = response;
+                $scope.users = response.respuesta;
             },
             function (response) {
                 console.log(response);
             }
         );
+    };
+
+    $scope.eliminar = function (nick) {
+        myService.consultaAjax().delete({nick: nick}).$promise.then(
+            function (response) {
+                console.log(response);
+                $scope.users = response.respuesta;
+            },
+            function (response) {
+                console.log(response);
+            }
+        );
+    };
+    $scope.rellenar = function (nick, age) {
+        $scope.nick = nick;
+        $scope.age = age;
     };
 }]);
 

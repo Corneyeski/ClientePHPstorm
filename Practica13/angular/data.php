@@ -45,7 +45,11 @@ switch ($_SERVER['REQUEST_METHOD']) {
         $value = explode("/", $_SERVER['REQUEST_URI']);
 
         if (end($value) == "ranking") {
-            echo json_encode($_SESSION["usuarios"]);
+            if (empty($_SESSION["usuarios"])) {
+                echo json_encode(["respuesta" => $_SESSION["usuarios"]]);
+            } else {
+                echo json_encode(["respuesta" => $_SESSION["usuarios"]]);
+            }
         }
 
         if (end($value) == "pregunta") {
@@ -68,21 +72,18 @@ switch ($_SERVER['REQUEST_METHOD']) {
             }
         }
 
-        /* if (isset($_GET["image"])) {
-          $posicion = rand(0, sizeof($imgRetos) - 1);
-          $_SESSION["posicion"] = $posicion;
-          $respuesta .= '"ruta":"' . $imgRetos[$posicion] . '"';
-          } else if (isset($_GET["pregunta"])) {
-          $respuesta .= '"pregunta": "¿Hay alguna imagen pareja a otra?"';
-          } else if (isset($_GET["pista"])) {
-          $respuesta .= '"pista" : "Fíjate bien si son iguales..."';
-          } else if (isset($_GET["respuesta"])) {
-          if ($respRetos[$_SESSION["posicion"]] == $_GET["respuesta"]) {
-          $respuesta .= '"respuesta" : "acertado"';
-          } else {
-          $respuesta .= '"respuesta" : "incorrecto"';
-          }
-          } */
+        break;
 
+    case "DELETE":
+
+        $value = explode("/", $_SERVER['REQUEST_URI']);
+
+        unset($_SESSION["usuarios"][end($value)]);
+
+        if (empty($_SESSION["usuarios"])) {
+            echo json_encode(["respuesta" => $_SESSION["usuarios"]]);
+        } else {
+            echo json_encode($_SESSION["usuarios"]);
+        }
         break;
 }
