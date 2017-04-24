@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2aaf15bd-8e7f-45c9-be44-2b80b78daecb" name="Default" comment="sintesis">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/retoMental.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/retoMental2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/retoMental.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/retoMental2.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Librerias/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/angular/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practica13_Examen/javascript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practica13/angular/controller.js" afterPath="$PROJECT_DIR$/Practica13/angular/controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practica13/angular/data.php" afterPath="$PROJECT_DIR$/Practica13/angular/data.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practica13/angular/index.html" afterPath="$PROJECT_DIR$/Practica13/angular/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,8 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +253,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,16 +267,16 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Cliente\Practica13" />
+      <recent name="C:\wamp\www\Cliente\Librerias" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp\www\Cliente\Practica13" />
       <recent name="C:\wamp\www\Cliente\Librerias" />
       <recent name="C:\Users\alanv\PhpstormProjects\ClientePHPstorm\Librerias" />
       <recent name="C:\Users\alanv\PhpstormProjects\ClientePHPstorm\ajaxAngular" />
       <recent name="C:\wamp\www\Cliente" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp\www\Cliente\Practica13" />
-      <recent name="C:\wamp\www\Cliente\Librerias" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.indexC.html">
@@ -428,7 +436,8 @@
       <workItem from="1490630481352" duration="2367000" />
       <workItem from="1491224964539" duration="749000" />
       <workItem from="1491231712079" duration="100000" />
-      <workItem from="1491329996390" duration="4000" />
+      <workItem from="1491329996390" duration="88000" />
+      <workItem from="1493042900070" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="POR FIN">
       <created>1485284070827</created>
@@ -577,11 +586,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491231746837</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="sintesis">
+      <created>1491330043646</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1491330043646</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146410000" />
+    <option name="totallyTimeSpent" value="146880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
