@@ -10,6 +10,12 @@ $respRetos = array("si", "no");
 
 $posicionImg = array("retoMental", "retoMental2");
 
+if (isset($_SESSION["usuario"])) {
+    $_SESSION["usuario"] = "";
+} else {
+    $_SESSION["usuario"];
+}
+
 if (!isset($_SESSION["usuarios"])) {
     $_SESSION["usuarios"] = array("alan" => array("nick" => "alan", "edad" => "20", "puntuacion" => 10, "intentos" => 0));
 } else {
@@ -24,7 +30,11 @@ switch ($_SERVER['REQUEST_METHOD']) {
         $value = explode("/", $_SERVER['REQUEST_URI'][1]);
         $usuario = json_decode(file_get_contents("php://input"), false);
 
-        if ($_SESSION["usuarios"][$usuario->nick]) {
+        $_SESSION["usuario"] = $usuario->nick;
+
+        //echo json_encode($usuario);
+
+        if (isset($_SESSION["usuarios"][$usuario->nick])) {
             $_SESSION["usuarios"][$usuario->nick]->nick = $usuario->nick;
             $_SESSION["usuarios"][$usuario->nick]->edad = $usuario->age;
             $_SESSION["usuarios"][$usuario->nick]->intentos += 1;
@@ -58,14 +68,14 @@ switch ($_SERVER['REQUEST_METHOD']) {
             echo json_encode(["pista" => "Fíjate bien si son iguales..."]);
         } else if (end($value) == "si") {
             if ($imgRetos[$posicionImg[$_SESSION["posicion"]]]["respuesta"] == "si") {
-                $_SESSION["usuarios"][$usuario->nick]->puntuacion += 1;
+                $_SESSION["usuarios"][$_SESSION["usuario"]]->puntuacion += 1;
                 echo json_encode(["respuesta" => "has acertado!"]);
             } else {
                 echo json_encode(["respuesta" => "te has equivocado!"]);
             }
         } else if (end($value) == "no") {
             if ($imgRetos[$posicionImg[$_SESSION["posicion"]]]["respuesta"] == "no") {
-                $_SESSION["usuarios"][$usuario->nick]->puntuacion += 1;
+                $_SESSION["usuarios"][$_SESSION["usuario"]]->puntuacion += 1;
                 echo json_encode(["respuesta" => "has acertado!"]);
             } else {
                 echo json_encode(["respuesta" => "te has equivocado!"]);

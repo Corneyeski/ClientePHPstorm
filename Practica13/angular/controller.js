@@ -5,7 +5,8 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
 
     $scope.imagen = "";
     $scope.users = "";
-
+    $scope.ganado = "";
+    
     reiniciar();
 
     $scope.registrar = function () {
@@ -66,6 +67,7 @@ app.controller('control', ['$scope', 'myService', function ($scope, myService) {
         myService.consultaAjax().get({nick: respuesta}).$promise.then(
             function (response) {
                 console.log(response.respuesta);
+                $scope.ganado = response.respuesta;
             },
             function (response) {
                 console.log(response.respuesta);

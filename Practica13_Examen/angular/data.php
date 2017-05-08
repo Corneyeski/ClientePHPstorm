@@ -10,6 +10,12 @@ $respRetos = array("si", "no");
 
 $posicionImg = array("retoMental", "retoMental2");
 
+if (isset($_SESSION["usuario"])) {
+
+} else {
+
+}
+
 if (!isset($_SESSION["usuarios"])) {
     $_SESSION["usuarios"] = array("alan" => array("nick" => "alan", "edad" => "20", "puntuacion" => 10, "intentos" => 0));
 } else {
@@ -24,6 +30,8 @@ switch ($_SERVER['REQUEST_METHOD']) {
         $value = explode("/", $_SERVER['REQUEST_URI'][1]);
         $usuario = json_decode(file_get_contents("php://input"), false);
 
+        $_SESSION["usuario"] = $usuario->nick;
+        
         if (isset($_SESSION["usuarios"][$usuario->nick])) {
             $_SESSION["usuarios"][$usuario->nick]->nick = $usuario->nick;
             $_SESSION["usuarios"][$usuario->nick]->edad = $usuario->age;

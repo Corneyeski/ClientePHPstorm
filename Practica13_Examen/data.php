@@ -4,11 +4,20 @@ $_SESSION["posicion"] = 0;
 $imgRetos = array("retoMental.png", "retoMental2.jpg");
 $respRetos = array("si", "no");
 
-
+/*
 $_SESSION["acierto"];
 $_SESSION["fallo"];
-
-
+*/
+if (!isset($_SESSION["acierto"])) {
+    $_SESSION["acierto"] = 0;
+} else {
+    $_SESSION["acierto"];
+}
+if (!isset($_SESSION["fallo"])) {
+    $_SESSION["fallo"] = 0;
+} else {
+    $_SESSION["fallo"];
+}
 $respuesta = '{';
 
 if (isset($_GET["color"])) {
