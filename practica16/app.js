@@ -4,34 +4,49 @@ app.config(function ($stateProvider, $urlRouterProvider) {
         .state('app', {
             url: '/',
             views: {
-                'header': {templateUrl: 'views/header/header.html'},
-                'body': {templateUrl: 'views/body/body.html'},
-                'footer': {templateUrl: 'views/footer/footer.html'}
+                'header@': {templateUrl: 'views/header/header.html'},
+                'body@': {templateUrl: 'views/body/body.html'},
+                'footer@': {templateUrl: 'views/footer/footer.html'}
             }
         })
 
-        .state('app.misListas', {
-            url: '/misListas',
+        .state('misListas', {
+            parent: 'app',
+            url: '^/misListas',
             views: {
-                'header': {templateUrl: 'views/header/suscritoHeader.html'},
-                'body': {templateUrl: 'views/body/suscritoBody.html'},
-                'footer': {templateUrl: 'views/footer/footer.html'}
+                'body@': {templateUrl: 'views/body/suscritoBody.html'}
             }
         })
 
-        .state('app.misListas', {
-            url: '/misListas',
+        .state('buscar', {
+            parent: 'app',
+            url: '^/buscar',
             views: {
-                'header': {templateUrl: 'views/header/buscarHeader.html'},
-                'body': {templateUrl: 'views/body/buscarBody.html'},
-                'footer': {templateUrl: 'views/footer/footer.html'}
+                'header@': {templateUrl: 'views/header/buscarHeader.html'},
+                'body@': {templateUrl: 'views/body/buscarBody.html'},
+                'footer@': {templateUrl: 'views/footer/footer.html'}
             }
         })
-    /*.state('app.doscap', { url: 'doscap',
-     views: { 'cos@': { templateUrl: 'views/cap.html',
-     controller: 'capController' }
-     }
-     })*/;
+
+        .state('compra', {
+            parent: 'app',
+            url: '^/misListas/compra',
+            views: {
+                'header@': {templateUrl: 'views/header/compraHeader.html'},
+                'body@': {templateUrl: 'views/body/compraBody.html'},
+                'footer@': {templateUrl: 'views/footer/footer.html'}
+            }
+        })
+
+        .state('datos', {
+            parent: 'app',
+            url: '^/datos',
+            views: {
+                'header@': {templateUrl: 'views/header/datosHeader.html'},
+                'body@': {templateUrl: 'views/body/datosBody.html'},
+                'footer@': {templateUrl: 'views/footer/footer.html'}
+            }
+        });
     $urlRouterProvider.otherwise('/');
 });
 
