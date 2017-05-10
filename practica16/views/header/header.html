@@ -1,11 +1,17 @@
-<div class="page-header text-center" ui-sref="app">
-    <div class="col-lg-4">
-        <h1>LISTAME</h1>
+<nav class="nav navbar-default">
+    <div class="container-fluid">
+        <div class="nav navbar-brand">
+            <a href="#">
+                <h1><strong>Listname</strong></h1>
+            </a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li ui-sref-active="active">
+                <a href="#" class="" ui-sref="misListas"><h2>Listas suscrito</h2></a>
+            </li>
+            <li ui-sref-active="active">
+                <a class="#" ui-sref="datos" href=""><h2>Mis datos</h2></a>
+            </li>
+        </ul>
     </div>
-    <a href="" class="col-lg-4 btn-danger text-center" ui-sref="misListas">
-        <h2>Listas suscrito</h2>
-    </a>
-    <a class="col-lg-4 btn-success text-center" ui-sref="datos" href="">
-        <h2>Mis datos</h2>
-    </a>
-</div>
+</nav>

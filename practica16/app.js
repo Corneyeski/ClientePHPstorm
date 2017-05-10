@@ -14,6 +14,7 @@ app.config(function ($stateProvider, $urlRouterProvider) {
             parent: 'app',
             url: '^/misListas',
             views: {
+                'header@': {templateUrl: 'views/header/suscritoHeader.html'},
                 'body@': {templateUrl: 'views/body/suscritoBody.html'}
             }
         })
