@@ -3,8 +3,6 @@ var inter;
 var count = 0;
 
 function inicio() {
-    var div = document.getElementById("examen");
-    div.innerHTML = window.opener.tamaños();
 
     var newWindow = document.getElementById("medidas");
     newWindow.addEventListener("click", medidas, false);
@@ -14,6 +12,12 @@ function medidas() {
 
     window.opener.alturaAnchura(localStorage.getItem("anchura") + " " + localStorage.getItem("altura"));
 }
+
+function agregarTamañosExamen(medidas) {
+
+    var div = document.getElementById("examen");
+    div.innerHTML = medidas;
+};
 
 function cuentaAtras(atras) {
 

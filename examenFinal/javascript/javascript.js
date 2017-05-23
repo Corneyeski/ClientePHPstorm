@@ -24,6 +24,8 @@ function tamaños() {
 
     console.log(localStorage.getItem("anchura") + " " + localStorage.getItem("altura"));
 
+    hijo.agregarTamañosExamen(medidas);
+
     return medidas;
 }
 
